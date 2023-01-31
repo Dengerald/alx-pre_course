@@ -1,2 +1,1 @@
-My first readme
-I'm getting better with this project
+My first readme was great
